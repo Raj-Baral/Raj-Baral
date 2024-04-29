@@ -1,3 +1,4 @@
+![logo](https://github.com/Raj-Baral/Raj-Baral/blob/main/rajbaral.png)
 <h1 align="center">Hi 👋, I'm Raj Kumar Baral</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
